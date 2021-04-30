@@ -114,6 +114,7 @@
 | Idek/Iiyama | 5021 | CRT | 21 | Yes | Courtesy of idrougge (EAB) | New! |
 | Idek/Iiyama | Prolite XU2290HS-B1 | LCD | 21.5 | Yes |[Tested on Atari ST](https://www.exxoshost.co.uk/forum/viewtopic.php?f=18&t=3465&p=52968#p52968) | New! |
 | Langwei | monitor chinês, sem modelo| LCD/TV | 15 | Yes | | |
+| Lenovo | Q24i-10 | LED | 24 | Yes | Tested on Turbo Chameleon MiniMigCore+C64 Core | https://support.lenovo.com/no/en/solutions/pd500317-lenovo-q24i-10-monitor-overview |
 | LG | 1721a | | 17 | Yes | | |
 | LG | 1921a | | 19 | Yes | | |
 | LG | 26LG30R | LCD | 26 | No | | |
